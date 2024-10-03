@@ -3,7 +3,6 @@
 #include <signal.h>
 
 #include "main.h"
-#include "sensor.h"
 #include "lcd1602.h"
 
 volatile sig_atomic_t sigintFlag = 0;
